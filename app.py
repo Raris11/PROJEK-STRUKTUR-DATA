@@ -952,3 +952,264 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = AplikasiWisata(root)
     root.mainloop()
+
+{
+        'id': 'W085',
+        'nama': 'Menara Siger',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 20000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Ikon titik nol Sumatera dengan arsitektur mahkota siger emas yang megah',
+        'rating': 4.3
+    },
+    {
+        'id': 'W086',
+        'nama': 'Pulau Pisang',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 150000,
+        'kategori_anggaran': 'sedang',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau eksotis dengan pasir putih halus dan habitat lumba-lumba',
+        'rating': 4.8
+    },
+    {
+        'id': 'W087',
+        'nama': 'Temiangan Hill',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Negeri di atas awan dengan pemandangan sunrise yang spektakuler',
+        'rating': 4.7
+    },
+    {
+        'id': 'W088',
+        'nama': 'Masjid Baitus Shobur (99 Cahaya)',
+        'lokasi': 'Tulang Bawang Barat',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Masjid unik tanpa kubah dengan arsitektur vertikal yang filosofis',
+        'rating': 4.8
+    },
+    {
+        'id': 'W089',
+        'nama': 'Pulau Kelagian Besar',
+        'lokasi': 'Pesawaran',
+        'anggaran': 35000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau tak berpenghuni dengan pasir putih lembut dan air gradasi biru',
+        'rating': 4.6
+    },
+    {
+        'id': 'W090',
+        'nama': 'Pantai Marina',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 35000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai hits dengan jajaran karang estetik dan deburan ombak kuat',
+        'rating': 4.4
+    },
+    {
+        'id': 'W091',
+        'nama': 'Taman Merdeka Metro',
+        'lokasi': 'Metro',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Alun-alun kota Metro yang asri, pusat kegiatan warga dan kuliner malam',
+        'rating': 4.2
+    },
+    {
+        'id': 'W092',
+        'nama': 'Pemandian Way Bekhak',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Mata air alami yang sangat jernih dan segar di kaki Gunung Tanggamus',
+        'rating': 4.4
+    },
+    {
+        'id': 'W093',
+        'nama': 'Pantai Ketapang',
+        'lokasi': 'Pesawaran',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Dermaga utama penyeberangan ke pulau-pulau sekaligus spot mancing',
+        'rating': 4.1
+    },
+    {
+        'id': 'W094',
+        'nama': 'Ekowisata Mangrove Petengoran',
+        'lokasi': 'Pesawaran',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'edukasi',
+        'deskripsi': 'Hutan bakau dengan jalur kayu panjang dan spot kuliner seafood',
+        'rating': 4.3
+    },
+    {
+        'id': 'W095',
+        'nama': 'Pemandian Air Panas Way Belerang',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Kolam air panas belerang alami dari Gunung Rajabasa untuk kesehatan',
+        'rating': 4.2
+    },
+    {
+        'id': 'W096',
+        'nama': 'Kampung Tua Gedung Batin',
+        'lokasi': 'Way Kanan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Desa wisata budaya dengan rumah panggung tua berusia ratusan tahun',
+        'rating': 4.5
+    },
+    {
+        'id': 'W097',
+        'nama': 'Pantai Tembakak',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan pasir hitam eksotis dan bebatuan karang unik',
+        'rating': 4.3
+    },
+    {
+        'id': 'W098',
+        'nama': 'Arung Jeram Way Besai',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 150000,
+        'kategori_anggaran': 'sedang',
+        'kategori': 'gunung',
+        'deskripsi': 'Wisata adrenalin rafting menyusuri sungai berbatu grade 3',
+        'rating': 4.7
+    },
+    {
+        'id': 'W099',
+        'nama': 'Pantai M-Beach (Embe)',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 35000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai pasir putih bersih dengan fasilitas glamping dan spot foto',
+        'rating': 4.5
+    },
+    {
+        'id': 'W100',
+        'nama': 'Samber Park',
+        'lokasi': 'Metro',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Lapangan multifungsi pusat konser dan bazar kuliner di Kota Metro',
+        'rating': 4.1
+    },
+    {
+        'id': 'W101',
+        'nama': 'Lengkung Langit 2',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 20000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Taman wisata alam dengan spot foto kaca dan nuansa asri Kemiling',
+        'rating': 4.3
+    },
+    {
+        'id': 'W102',
+        'nama': 'Pulau Pasaran',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'kuliner',
+        'deskripsi': 'Sentra produksi ikan asin dan teri terbesar di Lampung',
+        'rating': 4.4
+    },
+    {
+        'id': 'W103',
+        'nama': 'Bukit Pematang Sunrise',
+        'lokasi': 'Pesawaran',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Spot camping dengan view 360 derajat laut dan perbukitan',
+        'rating': 4.5
+    },
+    {
+        'id': 'W104',
+        'nama': 'Air Terjun Ciupang',
+        'lokasi': 'Pesawaran',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun dengan dinding batu hitam yang artistik dan mudah dijangkau',
+        'rating': 4.3
+    },
+    {
+        'id': 'W105',
+        'nama': 'Pulau Sebesi',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 100000,
+        'kategori_anggaran': 'sedang',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau berpenghuni terdekat dengan Gunung Anak Krakatau',
+        'rating': 4.6
+    },
+    {
+        'id': 'W106',
+        'nama': 'Danau Asam',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Danau vulkanik di kawasan Suoh dengan air yang memiliki pH rendah',
+        'rating': 4.4
+    },
+    {
+        'id': 'W107',
+        'nama': 'Pantai Batu Tihang',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan ikon batu karang menjulang tinggi di bibir pantai',
+        'rating': 4.4
+    },
+    {
+        'id': 'W108',
+        'nama': 'Pasar Yosomulyo Pelangi (Payungi)',
+        'lokasi': 'Metro',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'kuliner',
+        'deskripsi': 'Pasar kreatif warga dengan jajanan tradisional dan nuansa ceria',
+        'rating': 4.6
+    },
+    {
+        'id': 'W109',
+        'nama': 'Las Sengok',
+        'lokasi': 'Tulang Bawang Barat',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Hutan wisata adat yang sejuk dengan pepohonan rimbun dan asri',
+        'rating': 4.2
+    },
+    {
+        'id': 'W110',
+        'nama': 'Taman Sabin',
+        'lokasi': 'Pringsewu',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wisata sawah instagramable dengan jembatan kayu dan lampu hias',
+        'rating': 4.3
+    },
