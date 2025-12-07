@@ -1142,3 +1142,926 @@ WISATA_DATA = [
         'deskripsi': 'Wisata sawah instagramable dengan jembatan kayu dan lampu hias',
         'rating': 4.3
     },
+    {
+        'id': 'W110',
+        'nama': 'Taman Sabin',
+        'lokasi': 'Pringsewu',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wisata sawah instagramable dengan jembatan kayu dan lampu hias',
+        'rating': 4.3
+    },
+    {
+        'id': 'W111',
+        'nama': 'Lanakila Lake',
+        'lokasi': 'Pringsewu',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wisata bendungan dengan suasana piknik dan penyewaan perahu',
+        'rating': 4.2
+    },
+    {
+        'id': 'W112',
+        'nama': 'Air Terjun Lamuran',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun ganda yang tersembunyi di kaki Gunung Tanggamus',
+        'rating': 4.3
+    },
+    {
+        'id': 'W113',
+        'nama': 'Curug Anggal',
+        'lokasi': 'Way Kanan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun lebar yang indah namun memerlukan perjalanan ekstra',
+        'rating': 4.4
+    },
+    {
+        'id': 'W114',
+        'nama': 'Bendungan Tirta Shinta',
+        'lokasi': 'Lampung Utara',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Bendungan air tenang yang cocok untuk bersantai sore hari',
+        'rating': 4.0
+    },
+    {
+        'id': 'W115',
+        'nama': 'Masjid Agung Al-Furqon',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Masjid terbesar di Bandar Lampung dengan menara tinggi (lift) melihat kota',
+        'rating': 4.7
+    },
+    {
+        'id': 'W116',
+        'nama': 'Vihara Thay Hin Bio',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Vihara tertua di Lampung yang terletak di kawasan pecinan Teluk Betung',
+        'rating': 4.4
+    },
+    {
+        'id': 'W117',
+        'nama': 'Pulau Kelagian Kecil',
+        'lokasi': 'Pesawaran',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau mungil berpasir putih bersih, tempat favorit untuk snorkeling pemula',
+        'rating': 4.7
+    },
+    {
+        'id': 'W118',
+        'nama': 'Pantai Bensam',
+        'lokasi': 'Pesawaran',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai keluarga dengan fasilitas lengkap dan ombak yang tenang',
+        'rating': 4.2
+    },
+    {
+        'id': 'W119',
+        'nama': 'Pulau Wayang',
+        'lokasi': 'Pesawaran',
+        'anggaran': 250000,
+        'kategori_anggaran': 'premium',
+        'kategori': 'pantai',
+        'deskripsi': 'Gugusan pulau karang yang disebut sebagai Raja Ampat-nya Lampung',
+        'rating': 4.8
+    },
+    {
+        'id': 'W120',
+        'nama': 'Grand Elty Krakatoa',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 75000,
+        'kategori_anggaran': 'sedang',
+        'kategori': 'pantai',
+        'deskripsi': 'Kawasan resort dan pantai eksklusif dengan fasilitas watersport lengkap',
+        'rating': 4.6
+    },
+    {
+        'id': 'W121',
+        'nama': 'Pantai Bagus',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai rakyat yang ramai dikunjungi dengan view Gunung Rajabasa',
+        'rating': 4.1
+    },
+    {
+        'id': 'W122',
+        'nama': 'Rest Area Puncak Sumber Jaya',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Rest area dengan patung tugu dan pemandangan lembah hijau yang luas',
+        'rating': 4.4
+    },
+    {
+        'id': 'W123',
+        'nama': 'Pinus Ecopark',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Hutan pinus yang sejuk, cocok untuk piknik dan hammock',
+        'rating': 4.3
+    },
+    {
+        'id': 'W124',
+        'nama': 'Pantai Melasti',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Pantai tempat upacara Melasti umat Hindu dengan Pura di tepi laut',
+        'rating': 4.5
+    },
+    {
+        'id': 'W125',
+        'nama': 'Pantai Way Redak',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai tenang yang dekat dengan pusat kota Krui',
+        'rating': 4.2
+    },
+    {
+        'id': 'W126',
+        'nama': 'Pantai Terbaya',
+        'lokasi': 'Tanggamus',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan hamparan batu kerikil unik dan pemandangan Teluk Semaka',
+        'rating': 4.2
+    },
+    {
+        'id': 'W127',
+        'nama': 'Air Terjun Tirai',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun berbentuk melebar seperti tirai di tengah hutan rimbun',
+        'rating': 4.4
+    },
+    {
+        'id': 'W128',
+        'nama': 'Wisata Sawah Bertingkat Bantul',
+        'lokasi': 'Metro',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Area persawahan dengan konsep terasering buatan untuk spot foto',
+        'rating': 4.0
+    },
+    {
+        'id': 'W129',
+        'nama': 'Tugu Pepadun',
+        'lokasi': 'Lampung Tengah',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Landmark ikonik Lampung Tengah berupa patung tangan dan singgasana adat',
+        'rating': 4.1
+    },
+    {
+        'id': 'W130',
+        'nama': 'Danau Tirta Gangga',
+        'lokasi': 'Lampung Tengah',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Danau buatan yang memiliki patung Bima dan nuansa budaya Bali',
+        'rating': 4.3
+    },
+    {
+        'id': 'W131',
+        'nama': 'Pintu Langit',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Spot foto dengan konsep pintu kaca menghadap pemandangan kota',
+        'rating': 4.2
+    },
+    {
+        'id': 'W132',
+        'nama': 'Alam Wawai',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 20000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Taman wisata eco-friendly dengan amphitheater alam dan camping ground',
+        'rating': 4.3
+    },
+    {
+        'id': 'W133',
+        'nama': 'Pantai Klara 2',
+        'lokasi': 'Pesawaran',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Lanjutan Pantai Klara dengan fasilitas pondokan yang lebih banyak',
+        'rating': 4.2
+    },
+    {
+        'id': 'W134',
+        'nama': 'Bronjong Way Lima',
+        'lokasi': 'Pesawaran',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wisata sungai berbatu dengan air jernih, cocok untuk bermain air anak-anak',
+        'rating': 4.1
+    },
+    {
+        'id': 'W135',
+        'nama': 'Pantai Alau-Alau',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 20000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai pasir putih luas yang sering digunakan untuk gathering perusahaan',
+        'rating': 4.3
+    },
+    {
+        'id': 'W136',
+        'nama': 'Pantai Tanjung Beo',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai baru dengan banyak spot foto buatan yang warna-warni',
+        'rating': 4.1
+    },
+    {
+        'id': 'W137',
+        'nama': 'Lumbok Seminung Resort',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Area resort milik Pemda di tepi Danau Ranau dengan pemandangan gunung',
+        'rating': 4.5
+    },
+    {
+        'id': 'W138',
+        'nama': 'Gereja Katedral Kristus Raja',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Gereja bersejarah di pusat kota dengan arsitektur klasik yang indah',
+        'rating': 4.4
+    },
+    {
+        'id': 'W139',
+        'nama': 'Pantai Belebuk',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai nelayan yang tenang dengan pasir putih dan air dangkal',
+        'rating': 4.0
+    },
+    {
+        'id': 'W140',
+        'nama': 'Bukit Foggy',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Bukit yang hampir selalu tertutup kabut, memberikan nuansa mistis dan sejuk',
+        'rating': 4.3
+    },
+    {
+        'id': 'W141',
+        'nama': 'Wisata Alam 21',
+        'lokasi': 'Pesawaran',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Kawasan agrowisata durian dan spot foto di perbukitan',
+        'rating': 4.1
+    },
+    {
+        'id': 'W142',
+        'nama': 'Pantai Canti',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Dermaga penyeberangan ke Pulau Sebesi yang memiliki pemandangan indah',
+        'rating': 4.2
+    },
+    {
+        'id': 'W143',
+        'nama': 'Air Terjun Sinar Tiga',
+        'lokasi': 'Pesawaran',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun tinggi di kawasan Padang Cermin yang masih sangat alami',
+        'rating': 4.3
+    },
+    {
+        'id': 'W144',
+        'nama': 'Taman Wisata Muara Indah',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Taman di tepi laut Kota Agung, ikon pariwisata Tanggamus',
+        'rating': 4.1
+    },
+    {
+        'id': 'W145',
+        'nama': 'Pantai Rio by The Beach',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 35000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai viral dengan pasir putih bersih dan fasilitas bean bag yang estetik',
+        'rating': 4.7
+    },
+    {
+        'id': 'W146',
+        'nama': 'Pringsewu Ranch',
+        'lokasi': 'Pringsewu',
+        'anggaran': 20000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'edukasi',
+        'deskripsi': 'Wisata berkuda dan peternakan dengan nuansa ala peternakan Amerika',
+        'rating': 4.2
+    },
+    {
+        'id': 'W147',
+        'nama': 'Bukit Blitar',
+        'lokasi': 'Pringsewu',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Bukit sederhana untuk melihat pemandangan sawah Pringsewu dari atas',
+        'rating': 4.0
+    },
+    {
+        'id': 'W148',
+        'nama': 'Telaga Gupit',
+        'lokasi': 'Pringsewu',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Telaga alami di kaki bukit yang cocok untuk memancing dan bersantai',
+        'rating': 4.1
+    },
+    {
+        'id': 'W149',
+        'nama': 'Air Terjun Pagasan',
+        'lokasi': 'Pringsewu',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun musiman yang sangat indah saat musim penghujan',
+        'rating': 4.0
+    },
+    {
+        'id': 'W150',
+        'nama': 'Grojogan Sewu Pringsewu',
+        'lokasi': 'Pringsewu',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Replika air terjun dengan bendungan kecil dan suasana pedesaan',
+        'rating': 3.9
+    },
+    {
+        'id': 'W151',
+        'nama': 'Sungai Kabung',
+        'lokasi': 'Mesuji',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wisata sungai untuk memancing dan melihat kehidupan rawa Mesuji',
+        'rating': 4.0
+    },
+    {
+        'id': 'W152',
+        'nama': 'Islamic Center Sukadana',
+        'lokasi': 'Lampung Timur',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Pusat kegiatan keagamaan dengan taman yang luas di Lampung Timur',
+        'rating': 4.3
+    },
+    {
+        'id': 'W153',
+        'nama': 'Danau Kemuning',
+        'lokasi': 'Lampung Timur',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Danau kecil yang asri, sering digunakan untuk kemah pramuka',
+        'rating': 4.0
+    },
+    {
+        'id': 'W154',
+        'nama': 'Wisata Mangrove Sriminosari',
+        'lokasi': 'Lampung Timur',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'edukasi',
+        'deskripsi': 'Hutan mangrove di pesisir timur dengan jembatan warna-warni',
+        'rating': 4.2
+    },
+    {
+        'id': 'W155',
+        'nama': 'Danau Beringin',
+        'lokasi': 'Lampung Timur',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Danau irigasi yang menjadi tempat rekreasi murah meriah warga sekitar',
+        'rating': 3.9
+    },
+    {
+        'id': 'W156',
+        'nama': 'Kolam Renang Palem Indah',
+        'lokasi': 'Metro',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Wahana kolam renang keluarga favorit di Kota Metro',
+        'rating': 4.3
+    },
+    {
+        'id': 'W157',
+        'nama': 'Jembatan Gantung Way Sekampung',
+        'lokasi': 'Pringsewu',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Jembatan gantung terpanjang di Lampung, spot foto ikonik Pringsewu',
+        'rating': 4.4
+    },
+    {
+        'id': 'W158',
+        'nama': 'Air Terjun Batu Lapis',
+        'lokasi': 'Tanggamus',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun dengan dinding tebing berlapis-lapis seperti kue lapis',
+        'rating': 4.5
+    },
+    {
+        'id': 'W159',
+        'nama': 'Pantai Saw Mill',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai alami di pesisir Tanggamus yang belum banyak terjamah',
+        'rating': 4.1
+    },
+    {
+        'id': 'W160',
+        'nama': 'Air Terjun Sepapa Kiri',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun di dalam kawasan Taman Nasional Bukit Barisan Selatan',
+        'rating': 4.6
+    },
+    {
+        'id': 'W161',
+        'nama': 'Goa Kelelawar',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Goa alami habitat ribuan kelelawar, aroma cukup menyengat namun eksotis',
+        'rating': 4.0
+    },
+    {
+        'id': 'W162',
+        'nama': 'Makam Radin Intan II',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Makam Pahlawan Nasional asal Lampung di Kalianda',
+        'rating': 4.5
+    },
+    {
+        'id': 'W163',
+        'nama': 'Benteng Orange',
+        'lokasi': 'Tulang Bawang',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Situs sejarah bekas benteng pertahanan di masa kolonial',
+        'rating': 3.8
+    },
+    {
+        'id': 'W164',
+        'nama': 'Pantai Duta Wisata',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai legendaris di Teluk Betung dengan pemandangan aktivitas laut',
+        'rating': 3.9
+    },
+    {
+        'id': 'W165',
+        'nama': 'Pantai Tirtayasa',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai yang bersebelahan dengan Duta Wisata, populer tahun 90-an',
+        'rating': 3.8
+    },
+    {
+        'id': 'W166',
+        'nama': 'Pantai Puri Gading',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai di bawah perumahan elit dengan akses jembatan menuju laut',
+        'rating': 4.0
+    },
+    {
+        'id': 'W167',
+        'nama': 'Pantai Suak',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai sepi yang tenang, cocok untuk menyendiri dan mencari inspirasi',
+        'rating': 4.2
+    },
+    {
+        'id': 'W168',
+        'nama': 'Pantai Batu Mandi',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan gugusan batu vulkanik hitam di tepi laut',
+        'rating': 4.1
+    },
+    {
+        'id': 'W169',
+        'nama': 'Pantai Setigi Heni',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai pasir putih di Kalianda dengan ombak yang cukup bersahabat',
+        'rating': 4.3
+    },
+    {
+        'id': 'W170',
+        'nama': 'Air Terjun Way Tayas',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun di kaki Gunung Rajabasa dengan suasana hutan kakao',
+        'rating': 4.4
+    },
+    {
+        'id': 'W171',
+        'nama': 'Air Terjun Cicurug',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun kecil yang sering dijadikan tempat bermain air anak-anak desa',
+        'rating': 4.0
+    },
+    {
+        'id': 'W172',
+        'nama': 'Air Terjun Kota Batu',
+        'lokasi': 'Lampung Tengah',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun unik di perbatasan Lamteng dan Tanggamus',
+        'rating': 4.2
+    },
+    {
+        'id': 'W173',
+        'nama': 'Pantai Karang Bolong',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai yang memiliki batu karang besar berlubang akibat abrasi',
+        'rating': 4.1
+    },
+    {
+        'id': 'W174',
+        'nama': 'Pantai Biha',
+        'lokasi': 'Pesisir Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai panjang yang landai, sering jadi rest area lintas barat',
+        'rating': 4.1
+    },
+    {
+        'id': 'W175',
+        'nama': 'Curug Kincir',
+        'lokasi': 'Way Kanan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun dengan debit air yang tidak terlalu deras, aman untuk mandi',
+        'rating': 4.0
+    },
+    {
+        'id': 'W176',
+        'nama': 'Patung Empat Marga',
+        'lokasi': 'Tulang Bawang Barat',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Monumen relief wajah empat tokoh adat (Megow Pak) Tulang Bawang',
+        'rating': 4.3
+    },
+    {
+        'id': 'W177',
+        'nama': 'Wisata Alam Kubu Perahu',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Pintu masuk TNBBS dengan sungai jernih dan pohon raksasa',
+        'rating': 4.5
+    },
+    {
+        'id': 'W178',
+        'nama': 'Puncak Jaya Genting',
+        'lokasi': 'Pesawaran',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Spot melihat laut Teluk Lampung dari ketinggian bukit Tahura',
+        'rating': 4.2
+    },
+    {
+        'id': 'W179',
+        'nama': 'Pulau Balak',
+        'lokasi': 'Pesawaran',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau berpasir putih luas, salah satu dari tiga pulau serangkai di Punduh',
+        'rating': 4.5
+    },
+    {
+        'id': 'W180',
+        'nama': 'Pulau Lok',
+        'lokasi': 'Pesawaran',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau tetangga Pulau Balak, lebih sepi dan alami',
+        'rating': 4.4
+    },
+    {
+        'id': 'W181',
+        'nama': 'Pulau Lunik',
+        'lokasi': 'Pesawaran',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pulau terkecil di gugusan Punduh Pidada, spot makan siang saat hopping island',
+        'rating': 4.3
+    },
+    {
+        'id': 'W182',
+        'nama': 'Pantai Mutun 2 (MS Town)',
+        'lokasi': 'Pesawaran',
+        'anggaran': 30000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pengembangan kawasan Mutun dengan konsep lebih modern',
+        'rating': 4.2
+    },
+    {
+        'id': 'W183',
+        'nama': 'Pantai Tembikil',
+        'lokasi': 'Pesawaran',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai tersembunyi dekat markas marinir dengan karang yang bagus',
+        'rating': 4.3
+    },
+    {
+        'id': 'W184',
+        'nama': 'Pantai Batu Alif',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan batu besar berdiri tegak menyerupai huruf Alif',
+        'rating': 4.4
+    },
+    {
+        'id': 'W185',
+        'nama': 'Pantai Cukuh Balak',
+        'lokasi': 'Tanggamus',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai nelayan dengan ikan segar murah dan pemandangan teluk',
+        'rating': 4.0
+    },
+    {
+        'id': 'W186',
+        'nama': 'Pantai Karang Putih',
+        'lokasi': 'Tanggamus',
+        'anggaran': 15000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan dominasi batuan karang berwarna putih bersih',
+        'rating': 4.3
+    },
+    {
+        'id': 'W187',
+        'nama': 'Pantai Karang Bebai',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai dengan legenda batu pengantin, bebatuan unik tersebar di pantai',
+        'rating': 4.2
+    },
+    {
+        'id': 'W188',
+        'nama': 'Air Terjun Beringin',
+        'lokasi': 'Lampung Utara',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun tinggi yang dikelilingi pohon beringin tua',
+        'rating': 4.1
+    },
+    {
+        'id': 'W189',
+        'nama': 'Bukit Neba',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'gunung',
+        'deskripsi': 'Bukit dengan pemandangan ilalang dan view Gunung Tanggamus yang megah',
+        'rating': 4.3
+    },
+    {
+        'id': 'W190',
+        'nama': 'Green Canyon',
+        'lokasi': 'Way Kanan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun unik dengan kontur tebing batu cadas yang eksotis',
+        'rating': 4.2
+    },
+    {
+        'id': 'W191',
+        'nama': 'Pantai Kedu',
+        'lokasi': 'Lampung Selatan',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai yang terkenal dengan kerangka kapal karam yang artistik',
+        'rating': 4.2
+    },
+    {
+        'id': 'W192',
+        'nama': 'Pantai Muara Indah',
+        'lokasi': 'Tanggamus',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'pantai',
+        'deskripsi': 'Pantai reklamasi di Kota Agung yang rapi dengan patung lumba-lumba',
+        'rating': 4.2
+    },
+    {
+        'id': 'W193',
+        'nama': 'Masjid Al-Anwar',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Masjid tertua di Bandar Lampung yang menjadi saksi letusan Krakatau 1883',
+        'rating': 4.5
+    },
+    {
+        'id': 'W194',
+        'nama': 'Agro Wisata PKK Agropark',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'edukasi',
+        'deskripsi': 'Taman edukasi pertanian dan peternakan di tengah kota, Sabah Balau',
+        'rating': 4.1
+    },
+    {
+        'id': 'W195',
+        'nama': 'Hutan Kera Tirtosari',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 5000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Hutan kota kecil yang dihuni kawanan kera ekor panjang jinak',
+        'rating': 3.8
+    },
+    {
+        'id': 'W196',
+        'nama': 'Sumur Putri',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'murah',
+        'kategori': 'sejarah',
+        'deskripsi': 'Situs legenda asal mula Teluk Betung dengan pemandangan sungai',
+        'rating': 3.9
+    },
+    {
+        'id': 'W197',
+        'nama': 'Bukit Randu',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 0,
+        'kategori_anggaran': 'premium',
+        'kategori': 'kuliner',
+        'deskripsi': 'Restoran dan hotel di atas bukit dengan view terbaik kota malam hari',
+        'rating': 4.6
+    },
+    {
+        'id': 'W198',
+        'nama': 'Desa Wisata Rigis Jaya',
+        'lokasi': 'Lampung Barat',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'edukasi',
+        'deskripsi': 'Kampung Kopi, sentra perkebunan kopi robusta Lampung Barat',
+        'rating': 4.5
+    },
+    {
+        'id': 'W199',
+        'nama': 'Air Terjun Kaca',
+        'lokasi': 'Pesawaran',
+        'anggaran': 10000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'air_terjun',
+        'deskripsi': 'Air terjun yang aliran airnya jernih seperti kaca, dekat Tahura',
+        'rating': 4.2
+    },
+    {
+        'id': 'W200',
+        'nama': 'Puncak Mas 2 (Tegal Mas View)',
+        'lokasi': 'Bandar Lampung',
+        'anggaran': 25000,
+        'kategori_anggaran': 'murah',
+        'kategori': 'taman',
+        'deskripsi': 'Spot baru perluasan area wisata Sukadanaham dengan view laut',
+        'rating': 4.3
+    }
+]
+#mengambil seluruh data wisata dari file data_wisata.py
+def get_all_wisata():
+    return WISATA_DATA.copy()
+#mengambil daftar lokasi
+def get_locations():
+    return LOCATION.copy()
+#mengambil daftar kategori wisata
+def get_categories():
+    return CATEGORIES.copy()
+#mengambil data koneksi antar lokasi 
+def get_connections():
+    return LOCATION_CONNECTIONS.copy()
